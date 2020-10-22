@@ -1,0 +1,19 @@
+{
+  "name": "nodejsswagger",
+  "version": "1.0.0",
+  "description": "swagger expres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semih-yildiz/NodeJsSwagger.git"
+  },
+  "author": "Semih Yıldız",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semih-yildiz/NodeJsSwagger/issues"
+  },
+  "homepage": "https://github.com/semih-yildiz/NodeJsSwagger#readme"
+}
